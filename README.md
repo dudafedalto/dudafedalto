@@ -1,10 +1,10 @@
 ## Hi there 👋
-meu nome e Maria Eduarda 
-estou estudando no alura estou me desenvolvendo na linguagem javescript
-goto de utilizar a plataforma parq compartilhar meus projetos desenvolvido 
+✨meu nome e Maria Eduarda✨
+estou estudando no alura,estou me desenvolvendo na linguagem javescript 😺
+gosto de utilizar a plataforma para compartilhar meus projetos desenvolvido 
 
 <!--
-**dudafedalto/dudafedalto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dudafedalto/dudafedalto** is a  ✨_special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
