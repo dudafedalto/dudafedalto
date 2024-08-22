@@ -1,6 +1,8 @@
 ## Hi there 👋
 ✨meu nome e Maria Eduarda✨
+
 estou estudando no alura,estou me desenvolvendo na linguagem javescript 😺
+
 gosto de utilizar a plataforma para compartilhar meus projetos desenvolvido 
 
 <!--
